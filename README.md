@@ -1,12 +1,15 @@
 # DevShowcase API
 
-Projeto prático da disciplina de Programação Backend.
-
-## Integrantes
+## Integrantes do grupo
 
 - Alexandra de Castro Sousa
 - Cicera Pereira de Abreu
 - Elias de Oliveira Cunha Junior
+
+**Disciplina:** Programação Backend  
+**Projeto:** Modelagem de domínio, persistência e endpoints básicos.
+
+
 
 ## Stack
 
